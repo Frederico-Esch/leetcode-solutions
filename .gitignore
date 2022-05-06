@@ -1,0 +1,11 @@
+**/**/*.sln
+**/**/*.user
+**/**/*.filters
+**/**/*.vcxproj
+**/**/output
+**/**/*.out
+**/**/build/
+**/**/*.vs
+**/**/bin
+**/**/obj
+**/**/*.csproj
