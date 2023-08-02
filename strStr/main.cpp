@@ -19,4 +19,6 @@ int main(){
     pointer->valor = 20;
     std::cout << "pointer " << pointer->valor << '\n';// << "unico " << unico->valor << '\n';
     return 0;
+
+    
 }

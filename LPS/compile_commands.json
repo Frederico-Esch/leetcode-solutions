@@ -1,0 +1,12 @@
+[
+    {
+        "arguments": [
+            "g++",
+            "-c",
+            "--std=c++17",
+            "main.cpp"
+        ],
+        "directory": "/mnt/e/DEV/leetcode-solutions/LPS",
+        "file": "main.cpp"
+    }
+]

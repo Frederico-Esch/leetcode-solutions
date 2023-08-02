@@ -2,6 +2,10 @@
 **/**/*.user
 **/**/*.filters
 **/**/*.vcxproj
+**/**/.clangd
+**/**/.idea
+**/**/target
+**/**/debug
 **/**/output
 **/**/*.out
 **/**/build/
@@ -9,3 +13,6 @@
 **/**/bin
 **/**/obj
 **/**/*.csproj
+**/**/*.obj
+**/**/*.exe
+marina
